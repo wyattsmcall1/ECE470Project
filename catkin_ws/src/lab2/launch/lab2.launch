@@ -1,0 +1,3 @@
+<launch>
+	<node name="lab2" pkg="lab2" type="lab2" output="screen" />
+</launch>

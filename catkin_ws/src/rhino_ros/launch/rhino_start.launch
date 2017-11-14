@@ -1,0 +1,3 @@
+<launch>
+	<node name="rhino_node" pkg="rhino_ros" type="rhino_node" output="screen" />
+</launch>

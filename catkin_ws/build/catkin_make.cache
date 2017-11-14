@@ -1,0 +1,2 @@
+cv_camera-master:lab2:lab3:lab4:lab56:rhino_ros:serial
+-DCATKIN_DEVEL_PREFIX=/home/youbot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/youbot/catkin_ws/install -G Unix Makefiles

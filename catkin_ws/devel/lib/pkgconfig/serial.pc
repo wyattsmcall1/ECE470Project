@@ -1,0 +1,8 @@
+prefix=/home/youbot/catkin_ws/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/youbot/catkin_ws/src/serial/include
+Libs: -L/home/youbot/catkin_ws/devel/lib -lserial
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/youbot/catkin_ws/install
+
+Name: lab2
+Description: Description of lab2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/youbot/catkin_ws/install/lib 
+Requires: roscpp rospy std_msgs
